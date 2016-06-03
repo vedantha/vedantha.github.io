@@ -14,7 +14,8 @@ $('#lightSlider, #lightSlider1, #lightSlider2, #lightSlider3, #lightSlider4').li
         thumbItem:9,
         slideMargin:0,
         enableDrag: false,
-        currentPagerPosition:'left',
+        autoWidth: false,
+        currentPagerPosition:'middle',
         onSliderLoad: function(el) {
             el.lightGallery({
                 selector: '#lightSlider .lslide, #lightSlider1 .lslide, #lightSlider2 .lslide, #lightSlider3 .lslide, #lightSlider4 .lslide'
