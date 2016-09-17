@@ -56,8 +56,10 @@ html{
 .size3-font{
 	font-size: 3.5em;
 }
-body.index2{
+body{
     height: 100%;
+    opacity: 0;
+    padding-top:100px;
 }
 body.index2 nav.navbar{
 	margin-bottom: 0;
