@@ -38,8 +38,17 @@ html{
 .raleway{
   font-family: 'Raleway', sans-serif;
 }
+.caption{
+  font-weight: 200;
+  font-size: 1.1em;
+}
 .navbar-default .navbar-nav>li>a {
     color: #424242;
+}
+nav.navbar.navbar-default.hidden-xs {
+    box-shadow: 1px 1px 1px #cacaca;
+    z-index: 1000;
+    margin-bottom: 0;
 }
 /* experimental */
 body.index2{
@@ -361,8 +370,14 @@ body#calmtech-pages{
 
 body#calmtech-pages div#top{
   background: #efefef;
-  height: 200px;
-  padding-top: 50px;
+  height: 300px;
+  position: relative;
+}
+div#top div.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 body#calmtech-pages div#top h1{
 
