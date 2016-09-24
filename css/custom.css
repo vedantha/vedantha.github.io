@@ -35,6 +35,9 @@ html{
   width: 100%;
   height: 100%;
 }
+.raleway{
+  font-family: 'Raleway', sans-serif;
+}
 .navbar-default .navbar-nav>li>a {
     color: #424242;
 }
@@ -129,6 +132,14 @@ li img{
 }
 ul li{
 	font-size: 20px;
+}
+
+hr.elegant {
+    margin-top: 21px;
+    margin-bottom: 21px;
+    border: 0;
+    width: 30%;
+    border-top: 3px solid #63707b;
 }
 
 /* portfolio section */
@@ -353,6 +364,6 @@ body#calmtech-pages div#top{
   height: 200px;
   padding-top: 50px;
 }
-body#calmtech-pages div#top img{
- 
+body#calmtech-pages div#top h1{
+
 }
