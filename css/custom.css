@@ -342,3 +342,17 @@ div#section5 {
 div#section5 a{
   color: #424242;
 }
+
+/* Calm Tech page */
+body#calmtech-pages{
+
+}
+
+body#calmtech-pages div#top{
+  background: #efefef;
+  height: 200px;
+  padding-top: 50px;
+}
+body#calmtech-pages div#top img{
+ 
+}

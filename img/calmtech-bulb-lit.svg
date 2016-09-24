@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="662px" height="749px" viewBox="0 0 662 749" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>portfolio-calmtech</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M296.997296,557 C296.728151,595.695775 256.313645,627 206.498648,627 C156.68365,627 116.269145,595.695775 116,557 L296.997296,557 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(129.000000, 122.000000)">
+            <path d="M54.9126794,344.173249 C92.536242,384.655137 146.144761,410 205,410 C317,410 410,318.218374 410,205 C410,91.7816263 318.218374,2.27373675e-13 205,2.27373675e-13 C91.7816263,2.27373675e-13 0,91.7816263 0,205 C0,258.722888 20.9395733,307.619149 54.9126794,344.173249 Z" id="Oval-1" fill="#F8E81C"></path>
+            <rect id="Rectangle-1" fill="#F8E81C" x="90" y="371" width="233" height="100"></rect>
+            <rect id="Rectangle-2" fill="#9B9B9B" x="90" y="468" width="233" height="90" rx="8"></rect>
+            <rect id="Rectangle-4" fill="#F1F1F1" x="90" y="498" width="233" height="26"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#4A4A4A" xlink:href="#path-1"></use>
+        </g>
+        <rect id="Rectangle-5" fill="#F8E81C" x="325" y="0" width="20" height="50"></rect>
+        <rect id="Rectangle-5" fill="#F8E81C" transform="translate(557.748737, 130.748737) rotate(45.000000) translate(-557.748737, -130.748737) " x="547.748737" y="105.748737" width="20" height="50"></rect>
+        <rect id="Rectangle-5" fill="#F8E81C" transform="translate(25.500000, 331.500000) rotate(90.000000) translate(-25.500000, -331.500000) " x="15.5" y="306.5" width="20" height="50"></rect>
+        <rect id="Rectangle-5" fill="#F8E81C" transform="translate(104.748737, 121.748737) rotate(-45.000000) translate(-104.748737, -121.748737) " x="94.7487373" y="96.7487373" width="20" height="50"></rect>
+        <rect id="Rectangle-5" fill="#F8E81C" transform="translate(636.500000, 331.500000) rotate(90.000000) translate(-636.500000, -331.500000) " x="626.5" y="306.5" width="20" height="50"></rect>
+    </g>
+</svg>
